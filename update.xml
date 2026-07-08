@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="ifenmikfphddmmpoandpcmelejhiodmc">
+    <updatecheck
+      codebase="https://ahmedelsaawh.github.io/EXTENSION/mego_smart_video_blocker_v3_2_7_global_video_audio_safe.crx"
+      version="3.2.7" />
+  </app>
+</gupdate>
